@@ -14,5 +14,3 @@ Individuals aged 21–40 were most frequently victims, reflecting increased expo
 
 ### Predictive Modeling Insights
 Logistic Regression identified location, environment type, victim age, gender, and weapon presence as significant predictors of crime type. A model comparison pipeline found Random Forest performed best, achieving a KS (Youden) score of 0.55 with a low misclassification rate, indicating stable predictive capacity for identifying part-1 and part-2 crime susceptibility.
-
-
