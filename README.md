@@ -1,6 +1,6 @@
 # Enhancing Public Safety: A Data-Driven Predictive Analysis
 
-*Driving Proactive Community Safety Using Python, SAS Viya, and Power BI*
+*Driving Proactive Community Safety Using Python and SAS Viya*
 
 ## Tools & Technologies Used
 - **Python** for descriptive analysis and predictive modeling
@@ -46,7 +46,6 @@ Collected from **DATA.GOV**, containing crime data from Los Angeles, including d
 ---
 
 ## Visualization & Analysis
-- Power BI dashboards visualized crime occurrences by **time of day, month, and demographics**.
 - Explored key questions, including most frequent crime types, highest risk demographics, crime seasonality, and peak times.
 - Developed models including **Logistic Regression, Decision Trees, SVM, Gradient Boosting, and ANN**, identifying **Random Forest** as the top performer.
 
@@ -72,7 +71,7 @@ Collected from **DATA.GOV**, containing crime data from Los Angeles, including d
 ---
 
 ## Future Work
-- Integrate **real-time data streams** into dashboards for live monitoring.
+- Integrate **real-time data streams** into the model for live monitoring.
 - Expand predictive modeling with **advanced ensemble methods**.
 - Automate deployment pipelines for actionable insights for law enforcement.
 - Explore collaborations with community organizations for **public safety awareness and prevention initiatives**.
